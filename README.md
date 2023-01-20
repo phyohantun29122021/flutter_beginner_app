@@ -1,4 +1,4 @@
-# flutter_beginner_app
+# flutter_beginner_app from flutter codelab
 
 A new Flutter project.
 
