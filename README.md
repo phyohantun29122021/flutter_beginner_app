@@ -1,4 +1,4 @@
-# pratice_flutter
+# flutter_beginner_app
 
 A new Flutter project.
 
